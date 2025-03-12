@@ -1,0 +1,5 @@
+Locate and open your general.ini file in  game directory and save the following code to line 3.
+===================================================================================================
+
+DBGConsoleOn=true							
+C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\bin\config\base							
